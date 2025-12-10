@@ -1,0 +1,11 @@
+{
+  "name": "atakan-karakus-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone HTML Portfolio",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
